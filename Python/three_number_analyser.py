@@ -27,11 +27,11 @@ else:
 if num1==num2 and num1==num3:
     print("All three are Equal!!!")
 elif num1==num2:
-    print(f"{num1} and {num2} are equal")
+    print(f"first and second numbers are equal")
 elif num1==num3:
-    print(f"{num1} and {num3} are equal")
+    print(f"first and third numbers are equal")
 elif num2==num3:
-    print(f"{num2} and {num3} are equal")
+    print(f"second and third numbers are equal")
 else:
     print("All three is different")
 

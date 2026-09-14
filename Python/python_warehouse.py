@@ -1,2 +1,6 @@
-print(bool(""))
-print(bool(15))
+def my_function():
+  return (10, 20)
+
+x, y = my_function()
+print("x:", x)
+print("y:", y)
